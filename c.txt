@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-asdasdasds asd asd asdasd
-=======
-asdasdasds asd asd 
->>>>>>> dev
+asdasdasds asd asd asdasd sd 
